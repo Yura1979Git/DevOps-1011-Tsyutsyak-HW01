@@ -5,3 +5,5 @@ bug1 was fixed
 bug2 was fixed
 
 start working on feature1
+
+first stage on feature1
