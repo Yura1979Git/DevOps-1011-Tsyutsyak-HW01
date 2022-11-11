@@ -1,3 +1,5 @@
 initial app code
 
 bug1 was fixed
+
+bug2 was fixed
