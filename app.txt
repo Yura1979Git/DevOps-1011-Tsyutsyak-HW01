@@ -1,1 +1,3 @@
 initial app code
+
+bug1 was fixed
